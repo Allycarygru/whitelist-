@@ -6,4 +6,5 @@ return {
     ["78cvzl"] = true,
     ["CryForCyr0"] = true,
     ["Test002533533"] = true,
+    ["LockZzScm"] = true,
 }
