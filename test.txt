@@ -1,3 +1,6 @@
 return {
-    [4508099017] = 'e9ed6070-e22c-4450-8e1a-ab7fd23d2ff5',
+    ["darkgamer_alt354"] = true,
+    ["17K_xVibezzzz"] = true,
+    ["Lockzzscm"] = true,
+    ["WhyImPlayThisGame666"] = true,
 }
