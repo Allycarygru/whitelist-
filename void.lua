@@ -1,3 +1,4 @@
+--[""] = true/false,
 return {
     ["darkgamer_alt354"] = true,
     ["17K_xVibezzzz"] = true,
@@ -7,4 +8,5 @@ return {
     ["CryForCyr0"] = true,
     ["Test002533533"] = true,
     ["LockZzScm"] = true,
+    ["BuffetDragon228_2"] = true,
 }
