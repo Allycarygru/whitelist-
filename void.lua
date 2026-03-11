@@ -11,4 +11,5 @@ return {
     ["Test002533533"] = true,
     ["LockZzScm"] = true,
     ["BuffetDragon228_2"] = true,
+    ["darkgamer_ALT543"] = true,
 }
