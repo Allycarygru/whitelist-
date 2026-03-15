@@ -1,5 +1,5 @@
 --[""] = true/false,
-return {
+--[[ return {
     ["darkgamer_alt354"] = true,
     ["oooohmdr2010"] = true,
     ["zazaboubou_1"] = true,
@@ -11,4 +11,8 @@ return {
     ["LockZzScm"] = true,
     ["BuffetDragon228_2"] = true,
     ["darkgamer_ALT543"] = true,
+} ]]--
+
+return {
+    ['alrvrochacho'] = true,
 }
