@@ -1,18 +1,3 @@
---[""] = true/false,
---[[ return {
-    ["darkgamer_alt354"] = true,
-    ["oooohmdr2010"] = true,
-    ["zazaboubou_1"] = true,
-    ["17K_xVibezzzz"] = true,
-    ["Lockzzscm"] = true,
-    ["WhyImPlayThisGame666"] = true,
-    ["CryForCyr0"] = true,
-    ["Test002533533"] = true,
-    ["LockZzScm"] = true,
-    ["BuffetDragon228_2"] = true,
-    ["darkgamer_ALT543"] = true,
-} ]]--
-
 return {
-    ['alrvrochacho'] = true,
+    ['alrvrochacho'] = false,
 }
