@@ -6,7 +6,6 @@ return {
     ["17K_xVibezzzz"] = true,
     ["Lockzzscm"] = true,
     ["WhyImPlayThisGame666"] = true,
-    --["78cvzl"] = true,
     ["CryForCyr0"] = true,
     ["Test002533533"] = true,
     ["LockZzScm"] = true,
