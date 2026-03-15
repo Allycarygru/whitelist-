@@ -1,3 +1,5 @@
 return {
-    ['alrvrochacho'] = false,
+    ['Lastenola'] = true,
+    ['78cvzl'] = true,
+    ['YOURBADS7'] = true,
 }
