@@ -1,5 +1,5 @@
 return {
     ['Lastenola'] = true,
-    ['78cvzl'] = true,
+    ['78cvzl'] = false,
     ['YOURBADS7'] = true,
 }
